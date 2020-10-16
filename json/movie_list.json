@@ -1,0 +1,34 @@
+
+
+
+{
+    "movies":
+     [
+    {
+      "title": "Breakfast at Tiffany's",
+      "image" : "img/mImg1.jfif",
+      "time": ["09:00", "11:00", "12:00", "15:00", "17:00"]
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "image" : "img/mImg2.jfif",
+        "time": ["09:00", "11:00", "12:00", "15:00", "17:00"]
+    },
+    {
+        "title": "Willy Wonka and the Chocolate Factory",
+        "image" : "img/mImg3.jfif",
+        "time": ["09:00", "11:00", "12:00", "15:00", "17:00"]
+      },
+      {
+        "title": "Parasite",
+        "image" : "img/mImg4.jfif",
+        "time": ["09:00", "11:00", "12:00", "15:00", "17:00"]
+      },
+      {
+        "title": "Midsommar",
+        "image" : "img/mImg5.jfif",
+        "time": ["09:00", "11:00", "12:00", "15:00", "17:00"]
+      }
+    
+  ]
+}
